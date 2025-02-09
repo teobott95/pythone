@@ -1,5 +1,7 @@
 # pythone
+
 -----
+
 ## Programmazione Procedurale in Python
 
 Sono disponibili le tracce delle lezioni dei giorni:
@@ -13,6 +15,7 @@ Sono disponibili le tracce delle lezioni dei giorni:
 
 Il sorgente Python con cui è stato [svolto](discount.py) l'esercizio **P6.32 (economia)**
 a pagina 413 del testo adottato.
+
 -----
 
 ## Programmazione ad oggetti in Python e librerie esterne
