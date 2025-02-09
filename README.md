@@ -33,4 +33,4 @@ Tracce delle lezioni dei giorni:
 * [13 Marzo](2025_03_13.pdf)
 * [20 Marzo](2025_03_20.pdf)
 * [25 Marzo](2025_03_25.pdf)
-* [26 Marzo](2025_03_27.pdf)
+* [27 Marzo](2025_03_27.pdf)
