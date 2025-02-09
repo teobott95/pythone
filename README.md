@@ -34,3 +34,23 @@ Tracce delle lezioni dei giorni:
 * [20 Marzo](2025_03_20.pdf)
 * [25 Marzo](2025_03_25.pdf)
 * [27 Marzo](2025_03_27.pdf)
+
+-----
+
+## Programmazione in Python
+
+Tracce delle lezioni dei giorni:
+
+* [18 Marzo](2025_03_18.pdf)
+* [1 Aprile](2025_04_01.pdf)
+* [2 Aprile](2025_04_02.pdf)
+* [8 Aprile](2025_04_08.pdf)
+* [9 Aprile](2025_04_09.pdf)
+* [15 Aprile](2025_04_15.pdf)
+* [16 Aprile](2025_04_16.pdf)
+* [29 Aprile](2025_04_29.pdf)
+* [30 Aprile](2025_04_30.pdf)
+* [6 Maggio](2025_05_06.pdf)
+* [7 Maggio](2025_05_07.pdf)
+* [13 Maggio](2025_05_13.pdf)
+* [14 Maggio](2025_05_14.pdf)
