@@ -2,7 +2,7 @@
 
 -----
 
-## Programmazione Procedurale in Python
+## Programmazione Procedurale in Python (Pesaro)
 
 Sono disponibili le tracce delle lezioni dei giorni:
 
@@ -18,7 +18,7 @@ a pagina 413 del testo adottato.
 
 -----
 
-## Programmazione ad oggetti in Python e librerie esterne
+## Programmazione ad oggetti in Python e librerie esterne (Pesaro)
 
 Tracce delle lezioni dei giorni:
 
@@ -37,7 +37,7 @@ Tracce delle lezioni dei giorni:
 
 -----
 
-## Programmazione in Python
+## Programmazione in Python (Senigallia)
 
 Tracce delle lezioni dei giorni:
 
