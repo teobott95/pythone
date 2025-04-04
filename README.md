@@ -54,3 +54,7 @@ Tracce delle lezioni dei giorni:
 * [7 Maggio](senigallia/2025_05_07.pdf)
 * [13 Maggio](senigallia/2025_05_13.pdf)
 * [14 Maggio](senigallia/2025_05_14.pdf)
+
+## Python for Boomers
+
+# [2 Aprile](boomers/P4B_01.pdf)
