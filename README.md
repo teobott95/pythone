@@ -57,4 +57,4 @@ Tracce delle lezioni dei giorni:
 
 ## Python for Boomers
 
-# [2 Aprile](boomers/P4B_01.pdf)
+* [2 Aprile](boomers/P4B_01.pdf)
